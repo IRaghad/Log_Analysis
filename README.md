@@ -42,3 +42,6 @@ run the file using this command :
 ```
 $python3 log.py 
 ```
+output :
+<br>
+<img height=170 src=https://github.com/IRaghad/Log_Analysis/blob/master/Screen%20Shot%20of%20the%20output.png />
