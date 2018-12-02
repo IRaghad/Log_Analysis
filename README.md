@@ -31,6 +31,7 @@ $vagrant ssh
 ```
 $pip3 install psycopg2
 $pip3 install pycodestyle
+$pip3 install termcolor
 ```
 - Import the database using this command : 
 ```
